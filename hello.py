@@ -1,1 +1,2 @@
-nama = input("Masukkan nama: ")
+print("Andi Naurah Akifah Sardiah")
+print("2606887462")
