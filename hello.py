@@ -1,2 +1,1 @@
-print("Andi Naurah Akifah Sardiah")
-print("2606887462")
+nama = input("Masukkan nama: ")
